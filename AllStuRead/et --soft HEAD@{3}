@@ -1,0 +1,42 @@
+[33m43e8808[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33ma89517f[m HEAD@{1}: reset: moving to HEAD~1
+[33me66904a[m HEAD@{2}: checkout: moving from lab5-1 to master
+[33m00c0869[m[33m ([m[1;32mlab5-1[m[33m)[m HEAD@{3}: commit: Save current changes
+[33mf61b8a7[m[33m ([m[1;31mupstream/lab4[m[33m, [m[1;32mlab4[m[33m)[m HEAD@{4}: checkout: moving from lab4 to lab5-1
+[33mf61b8a7[m[33m ([m[1;31mupstream/lab4[m[33m, [m[1;32mlab4[m[33m)[m HEAD@{5}: checkout: moving from lab3 to lab4
+[33m8862254[m[33m ([m[1;32mlab3[m[33m)[m HEAD@{6}: checkout: moving from master to lab3
+[33me66904a[m HEAD@{7}: checkout: moving from lab4 to master
+[33mf61b8a7[m[33m ([m[1;31mupstream/lab4[m[33m, [m[1;32mlab4[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33mf61b8a7[m[33m ([m[1;31mupstream/lab4[m[33m, [m[1;32mlab4[m[33m)[m HEAD@{9}: checkout: moving from master to lab4
+[33me66904a[m HEAD@{10}: checkout: moving from lab4 to master
+[33m06856e0[m HEAD@{11}: reset: moving to HEAD
+[33m06856e0[m HEAD@{12}: commit (merge): lab3_merged
+[33mf61b8a7[m[33m ([m[1;31mupstream/lab4[m[33m, [m[1;32mlab4[m[33m)[m HEAD@{13}: checkout: moving from lab3 to lab4
+[33m8862254[m[33m ([m[1;32mlab3[m[33m)[m HEAD@{14}: commit: lab3_merged
+[33m5f5e2ff[m HEAD@{15}: merge lab2: Merge made by the 'recursive' strategy.
+[33ma9e07f6[m[33m ([m[1;31mupstream/lab3[m[33m)[m HEAD@{16}: checkout: moving from master to lab3
+[33me66904a[m HEAD@{17}: checkout: moving from lab3 to master
+[33m90c3229[m HEAD@{18}: reset: moving to HEAD
+[33m90c3229[m HEAD@{19}: checkout: moving from master to lab3
+[33me66904a[m HEAD@{20}: checkout: moving from master to master
+[33me66904a[m HEAD@{21}: checkout: moving from lab3 to master
+[33ma9fba6c[m HEAD@{22}: reset: moving to HEAD
+[33ma9fba6c[m HEAD@{23}: merge lab2: Merge made by the 'recursive' strategy.
+[33m90c3229[m HEAD@{24}: checkout: moving from lab3 to lab3
+[33m90c3229[m HEAD@{25}: checkout: moving from master to lab3
+[33me66904a[m HEAD@{26}: checkout: moving from lab3 to master
+[33m90c3229[m HEAD@{27}: reset: moving to HEAD
+[33m90c3229[m HEAD@{28}: checkout: moving from lab2 to lab3
+[33m7ae6bad[m[33m ([m[1;32mlab2[m[33m)[m HEAD@{29}: commit: write_down_commit_msg
+[33ma7a762e[m[33m ([m[1;31mupstream/lab2[m[33m)[m HEAD@{30}: checkout: moving from master to lab2
+[33me66904a[m HEAD@{31}: commit (merge): new commit
+[33ma89517f[m HEAD@{32}: commit: new pull
+[33m43e8808[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m)[m HEAD@{33}: checkout: moving from lab2 to master
+[33m4976b01[m HEAD@{34}: reset: moving to HEAD
+[33m4976b01[m HEAD@{35}: commit: upload before lab2
+[33ma7a762e[m[33m ([m[1;31mupstream/lab2[m[33m)[m HEAD@{36}: checkout: moving from master to lab2
+[33m43e8808[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m)[m HEAD@{37}: checkout: moving from lab1 to master
+[33m66e2e69[m[33m ([m[1;32mlab1[m[33m)[m HEAD@{38}: commit: Lab1
+[33m0b2d348[m HEAD@{39}: checkout: moving from lab1 to lab1
+[33m0b2d348[m HEAD@{40}: checkout: moving from master to lab1
+[33m43e8808[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m)[m HEAD@{41}: clone: from https://gitea.shuishan.net.cn/Compilation_Principle.Bo_HUANG.2024Spring.DaSE/AllStuRead.git
